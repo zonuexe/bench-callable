@@ -1,0 +1,17 @@
+{
+    "name": "zonuexe/bench-callable",
+    "description": "Benchmark",
+    "license": "FSFAP",
+    "autoload": {
+        "classmap": ["tests"]
+    },
+    "require-dev": {
+        "phpbench/phpbench": "^1.2"
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "require": {
+        "php": ">=8.3.0"
+    }
+}
